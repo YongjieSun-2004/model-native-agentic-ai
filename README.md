@@ -162,6 +162,41 @@ If you find our survey useful for your research, please consider citing our work
 
 ## ➤ 5&nbsp;&nbsp;Core Capabilities: Memory
 
+### 5.1&nbsp;&nbsp;Short-Term Memory: Long Context
+
+#### Pipeline-based paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   StreamingLLM  |  [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453)  |  2023-09  | [GitHub](https://github.com/mit-han-lab/streaming-llm) ![Stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm) |
+|   MemGPT  |  [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)  |  2023-10  | [GitHub](https://github.com/letta-ai/letta) ![Stars](https://img.shields.io/github/stars/letta-ai/letta) |
+|   SelectiveContext  |  [Compressing Context to Enhance Inference Efficiency of Large Language Models](https://arxiv.org/abs/2310.06201)  |  2023-10  | [GitHub](https://github.com/liyucheng09/Selective_Context) ![Stars](https://img.shields.io/github/stars/liyucheng09/Selective_Context) |
+|   LLMLingua  |  [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://aclanthology.org/2023.emnlp-main.825)  |  2023-10  | [GitHub](https://github.com/microsoft/LLMLingua) ![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua) |
+|   MapReduce  |  [Langchain](https://github.com/langchain-ai/langchain)  |  2022-10  | [GitHub](https://github.com/langchain-ai/langchain) ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain) |
+|   GraphRAG  |  [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  |  2024-04  | [GitHub](https://github.com/microsoft/graphrag) ![Stars](https://img.shields.io/github/stars/microsoft/graphrag) |
+|   MemoRAG  |  [MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](https://arxiv.org/abs/2409.05591)  |  2024-09  | [GitHub](https://github.com/qhjqhj00/MemoRAG) ![Stars](https://img.shields.io/github/stars/qhjqhj00/MemoRAG) |
+|   ILM-TR  |  [Enhancing Long Context Performance in LLMs Through Inner Loop Query Mechanism](https://arxiv.org/abs/2410.12859)  |  2024-10  | - |
+
+#### Model-native Paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   RoPE  |  [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011864)  |  2021-04  | - |
+|   ALiBi  |  [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)  |  2021-08  | [GitHub](https://github.com/ofirpress/attention_with_linear_biases) ![Stars](https://img.shields.io/github/stars/ofirpress/attention_with_linear_biases) |
+|   YaRN  |  [YaRN: Efficient Context Window Extension of Large Language Models](https://arxiv.org/abs/2309.00071)  |  2023-09  | [GitHub](https://github.com/jquesnelle/yarn) ![Stars](https://img.shields.io/github/stars/jquesnelle/yarn) |
+|   LieRE  |  [LieRE: Lie Rotational Positional Encodings](https://arxiv.org/abs/2406.10322)  |  2024-06  | [GitHub](https://github.com/ofirpress/attention_with_linear_biases) ![Stars](https://img.shields.io/github/stars/ofirpress/attention_with_linear_biases) |
+|   UltraLLaDA  |  [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481)  |  2025-10  | [GitHub](https://github.com/Relaxed-System-Lab/UltraLLaDA) ![Stars](https://img.shields.io/github/stars/Relaxed-System-Lab/UltraLLaDA) |
+|   Qwen2.5-1M  |  [Qwen2.5-1M Collection (Hugging Face)](https://huggingface.co/collections/Qwen/qwen25-1m-679325716327ec07860530ba)  |  2025-01  | - |
+|   Longformer/LED  |  [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)  |  2020-04  | [GitHub](https://github.com/allenai/longformer) ![Stars](https://img.shields.io/github/stars/allenai/longformer) |
+|   BigBird  |  [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)  |  2020-05  | [GitHub](https://github.com/google-research/bigbird) ![Stars](https://img.shields.io/github/stars/google-research/bigbird) |
+|   Performer  |  [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794)  |  2020-06  | [GitHub](https://github.com/lucidrains/performer-pytorch) ![Stars](https://img.shields.io/github/stars/lucidrains/performer-pytorch) |
+|   FlashAttention  |  [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://openreview.net/forum?id=H4DqfPSibmx)  |  2022-11  | [GitHub](https://github.com/Dao-AILab/flash-attention) ![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention) |
+|   LightningAttention  |  [Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2405.17381)  |  2023-07  | [GitHub](https://github.com/OpenNLPLab/lightning-attention) ![Stars](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention) |
+|   LightningAttention-2  |  [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths](https://arxiv.org/abs/2401.04658)  |  2024-01  | [GitHub](https://github.com/OpenNLPLab/lightning-attention) ![Stars](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention) |
+|   SKVQ  |  [SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models](https://arxiv.org/abs/2405.06219)  |  2024-05  | [GitHub](https://github.com/cat538/SKVQ) ![Stars](https://img.shields.io/github/stars/cat538/SKVQ) |
+|   MoBA  |  [MoBA](https://github.com/MoonshotAI/MoBA)  |  2025-02  | [GitHub](https://github.com/MoonshotAI/MoBA) ![Stars](https://img.shields.io/github/stars/MoonshotAI/MoBA) |
+
+
 ## ➤ 6&nbsp;&nbsp;Applications
 
 ### 6.1&nbsp;&nbsp;Deep Research Agent
