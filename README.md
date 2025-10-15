@@ -162,7 +162,7 @@ If you find our survey useful for your research, please consider citing our work
 
 ## ➤ 5&nbsp;&nbsp;Core Capabilities: Memory
 
-### 5.1&nbsp;&nbsp;Short-Term Memory: Long Context
+### 5.2&nbsp;&nbsp;Short-Term Memory: Long Context
 
 #### Pipeline-based paradigm
 
@@ -196,7 +196,7 @@ If you find our survey useful for your research, please consider citing our work
 |   SKVQ  |  [SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models](https://arxiv.org/abs/2405.06219)  |  2024-05  | [GitHub](https://github.com/cat538/SKVQ) ![Stars](https://img.shields.io/github/stars/cat538/SKVQ) |
 |   MoBA  |  [MoBA](https://github.com/MoonshotAI/MoBA)  |  2025-02  | [GitHub](https://github.com/MoonshotAI/MoBA) ![Stars](https://img.shields.io/github/stars/MoonshotAI/MoBA) |
 
-### 5.2&nbsp;&nbsp;Short-Term Memory: Context Management
+### 5.3&nbsp;&nbsp;Short-Term Memory: Context Management
 
 #### Pipeline-based paradigm
 
@@ -231,7 +231,7 @@ If you find our survey useful for your research, please consider citing our work
 |   MemAgent  |  [MemAgent: Reshaping Long-Context LLM with Multi-Conversation Memory and Reinforcement Learning](https://www.alphaxiv.org/overview/2507.02259v1)  |  2025-07  | [GitHub](https://github.com/BytedTsinghua-SIA/MemAgent) ![Stars](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent) |
 |   Memory-R1  |  [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)  |  2025-08  | - |
 
-### 5.3&nbsp;&nbsp;Long-Term Memory
+### 5.4&nbsp;&nbsp;Long-Term Memory
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
