@@ -95,12 +95,29 @@ If you find our survey useful for your research, please consider citing our work
 |   DAST  |  [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/abs/2503.04472)  |  2025.03  | [GitHub](https://github.com/AnonymousUser0520/AnonymousRepo01) ![Stars](https://img.shields.io/github/stars/AnonymousUser0520/AnonymousRepo01) |
 |   QwQ  |  [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)  |  2025-03  | - |
 |   Skywork or1  |  [Skywork Open Reasoner Series](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680)  |  2025-03  | - |
-|   Demystify-long-cot  |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)  |  2025.02  | [GitHub](https://github.com/eddycmu/demystify-long-cot) ![Stars](https://img.shields.io/github/stars/eddycmu/demystify-long-cot) |
+|   Demystify-long-cot  |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)  |  2025-02  | [GitHub](https://github.com/eddycmu/demystify-long-cot) ![Stars](https://img.shields.io/github/stars/eddycmu/demystify-long-cot) |
 |   LLM-as-Judge  |  [Who's Your Judge? On the Detectability of LLM-Generated Judgments](https://arxiv.org/abs/2509.25154)  |  2025-09  | - |
 
 ## ➤ 4&nbsp;&nbsp;Core Capabilities: Tool Use
 
 ### 4.2&nbsp;&nbsp;Pipeline-based Paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   WebGPT  |  [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)  |  2021-12  | - |
+|   SayCan  |  [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)  |  2022-04  | [GitHub](https://github.com/google-research/google-research/tree/master/saycan) ![Stars](https://img.shields.io/github/stars/google-research/google-research) 
+|   WebShop  |  [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Paper-Conference.pdf)  |  2022-07  | [GitHub](https://github.com/princeton-nlp/WebShop) ![Stars](https://img.shields.io/github/stars/princeton-nlp/WebShop) |
+|   Code as Policies  |  [Code as Policies: Language Model Programs for Embodied Control](https://arxiv.org/abs/2209.07753)  |  2022-09  | [GitHub](https://github.com/google-research/google-research/tree/master/code_as_policies) ![Stars](https://img.shields.io/github/stars/google-research/google-research) |
+|   HuggingGPT  |  [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://proceedings.neurips.cc/paper_files/paper/2023/file/77c33e6a367922d003ff102ffb92b658-Paper-Conference.pdf)  |  2023-03  | [GitHub](https://github.com/microsoft/JARVIS) ![Stars](https://img.shields.io/github/stars/microsoft/JARVIS) |
+|   AutoGen  |  [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)  |  2023-08  | [GitHub](https://github.com/microsoft/autogen) ![Stars](https://img.shields.io/github/stars/microsoft/autogen) |
+|   SWE-agent  |  [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://papers.nips.cc/paper_files/paper/2024/file/5a7c947568c1b1328ccc5230172e1e7c-Paper-Conference.pdf)  |  2024-05  | [GitHub](https://github.com/SWE-agent/SWE-agent) ![Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent) |
+|   Self-Ask  |  [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350)  |  2022-10  | [GitHub](https://github.com/ofirpress/self-ask) ![Stars](https://img.shields.io/github/stars/ofirpress/self-ask) |
+|   ReAct  |  [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X)  |  2022-10  | [GitHub](https://github.com/ysymyth/ReAct) ![Stars](https://img.shields.io/github/stars/ysymyth/ReAct) |
+|   PAL  |  [PAL: Program-aided Language Models](https://openreview.net/forum?id=WE_vluYUL-X)  |  2022-11  | [GitHub](https://github.com/reasoning-machines/pal) ![Stars](https://img.shields.io/github/stars/reasoning-machines/pal) |
+|   PoT  |  [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://openreview.net/forum?id=YfZ4ZPt8zd)  |  2022-11  | [GitHub](https://github.com/TIGER-AI-Lab/Program-of-Thoughts) ![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/Program-of-Thoughts) |
+|   Reflexion  |  [Reflexion: language agents with verbal reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)  |  2023-03  | [GitHub](https://github.com/NoahShinn024/reflexion) ![Stars](https://img.shields.io/github/stars/NoahShinn024/reflexion) |
+|   ViperGPT  |  [ViperGPT: Visual Inference via Python Execution for Reasoning](https://openaccess.thecvf.com/content/ICCV2023/html/Suris_ViperGPT_Visual_Inference_via_Python_Execution_for_Reasoning_ICCV_2023_paper.html)  |  2023-03  | [GitHub](https://github.com/cvlab-columbia/viper) ![Stars](https://img.shields.io/github/stars/cvlab-columbia/viper) |
+|   CRITIC  |  [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://openreview.net/forum?id=Sx038qxjek)  |  2023-05  | [GitHub](https://github.com/microsoft/ProphetNet/tree/master/CRITIC) ![Stars](https://img.shields.io/github/stars/microsoft/ProphetNet) |
 
 ### 4.3&nbsp;&nbsp;Model-native Paradigm
 
