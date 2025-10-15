@@ -196,6 +196,25 @@ If you find our survey useful for your research, please consider citing our work
 |   SKVQ  |  [SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models](https://arxiv.org/abs/2405.06219)  |  2024-05  | [GitHub](https://github.com/cat538/SKVQ) ![Stars](https://img.shields.io/github/stars/cat538/SKVQ) |
 |   MoBA  |  [MoBA](https://github.com/MoonshotAI/MoBA)  |  2025-02  | [GitHub](https://github.com/MoonshotAI/MoBA) ![Stars](https://img.shields.io/github/stars/MoonshotAI/MoBA) |
 
+### 5.2&nbsp;&nbsp;Short-Term Memory: Context Management
+
+#### Pipeline-based paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   MemoChat  |  [MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation](https://arxiv.org/abs/2308.08239)  |  2023-08  | - |
+|   MemInsight  |  [MemInsight: Autonomous Memory Augmentation for LLM Agents](https://arxiv.org/html/2503.21760v1)  |  2025-03  | - |
+|   HiAgent  |  [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Models](https://arxiv.org/abs/2408.09559)  |  2024-08  | [GitHub](https://github.com/HiAgent2024/HiAgent) ![Stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent) |
+|   AWM  |  [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)  |  2024-10  | [GitHub](https://github.com/zorazrw/agent-workflow-memory) ![Stars](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory) |
+|   Memary  |  [Memary](https://github.com/kingjulio8238/Memary)  |  2024-10  | [GitHub](https://github.com/kingjulio8238/Memary) ![Stars](https://img.shields.io/github/stars/kingjulio8238/Memary) |
+|   COLA  |  [COLA: A Multi-agent Framework for Generating Large-Scale UI Automation Datasets on Windows](https://arxiv.org/abs/2503.09263)  |  2025-03  | - |
+|   ZEP  |  [Zep: The AI Memory Server](https://docs.getzep.com/)  |  2025-01  | [GitHub](https://github.com/getzep/zep) ![Stars](https://img.shields.io/github/stars/getzep/zep) |
+|   Mem0  |  [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)  |  2025-04  | [GitHub](https://github.com/mem0ai/mem0) ![Stars](https://img.shields.io/github/stars/mem0ai/mem0) |
+
+#### Model-native Paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
 
 ## ➤ 6&nbsp;&nbsp;Applications
 
