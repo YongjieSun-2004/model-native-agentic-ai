@@ -215,6 +215,23 @@ If you find our survey useful for your research, please consider citing our work
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
+|   G-MEM  |  [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://www.researchgate.net/publication/392531451)  |  2024-12  | [GitHub](https://github.com/bingreeky/GMemory) ![Stars](https://img.shields.io/github/stars/bingreeky/GMemory) |
+|   A-Mem  |  [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110)  |  2025-02  | [GitHub](https://github.com/agiresearch/A-mem) ![Stars](https://img.shields.io/github/stars/agiresearch/A-mem) |
+|   Intrinsic Memory Agents  |  [Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/abs/2508.08997)  |  2025-08  | - |
+|   EMU  |  [Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2403.01112)  |  2024-03  | [GitHub](https://github.com/imccason/EMU) ![Stars](https://img.shields.io/github/stars/imccason/EMU) |
+|   Optimus-1  |  [Optimus-1: On-device Data of Task Execution and Decision Making for LLM-based Agents](https://arxiv.org/abs/2410.05623)  |  2025-06  | [GitHub](https://github.com/JiuTian-VL/Optimus-1) ![Stars](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1) |
+|   Nemori  |  [Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341)  |  2025-08  | - |
+|   RAP  |  [RAP](https://github.com/PanasonicConnect/rap)  |  2024-02  | [GitHub](https://github.com/PanasonicConnect/rap) ![Stars](https://img.shields.io/github/stars/PanasonicConnect/rap) |
+|   SeCom  |  [SeCom](https://github.com/Qulox/SeCom)  |  2025-02  | - |
+|   M+  |  [M+: Multi-Memory Multi-Tool AI Fabric for Building Complex LLM Applications](https://arxiv.org/abs/2502.11372)  |  2025-02  | - |
+|   TWM  |  [Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding](https://arxiv.org/abs/2502.06020)  |  2025-02  | [GitHub](https://github.com/xid32/TWM) ![Stars](https://img.shields.io/github/stars/xid32/TWM) |
+|   RCR-Router  |  [RCR-Router: Retrieval-Critic-Rerank for Efficient Knowledge Retrieval](https://arxiv.org/abs/2509.08181)  |  2025-08  | - |
+|   Learn-to-Memorize  |  [Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework](https://arxiv.org/abs/2508.16629)  |  2025-08  | [GitHub](https://github.com/nuster1128/learn_to_memorize) ![Stars](https://img.shields.io/github/stars/nuster1128/learn_to_memorize) |
+|   Self-RAG  |  [Self-RAG: Learning to Retrieve, Generate, and Critique for Improved Language Modeling](https://arxiv.org/abs/2310.01342)  |  2023-10  | [GitHub](https://selfrag.github.io) ![Stars](https://img.shields.io/github/starshttps://selfrag.github.io) |
+|   TiM  |  [Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory](https://arxiv.org/abs/2311.09227)  |  2023-11  | - |
+|   HippoRAG  |  [HippoRAG: Memory-based Retrieval for LLMs](https://arxiv.org/abs/2404.)  |  2024-05  | [GitHub](https://github.com/OSU-NLP-Group/HippoRAG) ![Stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG) |
+|   MemAgent  |  [MemAgent: Reshaping Long-Context LLM with Multi-Conversation Memory and Reinforcement Learning](https://www.alphaxiv.org/overview/2507.02259v1)  |  2025-07  | [GitHub](https://github.com/driaresearch/mem-agent-mcp) ![Stars](https://img.shields.io/github/stars/driaresearch/mem-agent-mcp) |
+|   Memory-R1  |  [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)  |  2025-08  | - |
 
 ## ➤ 6&nbsp;&nbsp;Applications
 
