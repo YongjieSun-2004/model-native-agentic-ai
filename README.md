@@ -235,19 +235,19 @@ If you find our survey useful for your research, please consider citing our work
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
-|   RETRO  |  [Improving language models by retrieving from trillions of tokens](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  202021-00  | - |
-|   Atlas  |  [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)  |  202022-00  | - |
-|   Generative Agents  |  [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  2023-04  | - |
-|   Synapse  |  [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  2023-06  | - |
-|   MemGPT  |  [MemGPT: Towards LLMs as Operating Systems](https://github.com/letta-ai/letta)  |  2023-10  | [GitHub](https://github.com/letta-ai/letta) ![Stars](https://img.shields.io/github/stars/letta-ai/letta) |
+|   RETRO  |  [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426)  |  2021-12  | - |
+|   Atlas  |  [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)  |  2022-08  | - |
+|   Generative Agents  |  [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)  |  2023-04  | - |
+|   Synapse  |  [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863)  |  2023-06  | - |
+|   MemGPT  |  [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)  |  2023-10  | [GitHub](https://github.com/letta-ai/letta) ![Stars](https://img.shields.io/github/stars/letta-ai/letta) |
 |   GraphRAG  |  [A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  |  2024-04  | [GitHub](https://github.com/microsoft/graphrag) ![Stars](https://img.shields.io/github/stars/microsoft/graphrag) |
-|   LMLM  |  [Pre-training Large Memory Language Models with Internal and External Knowledge](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  2025-05  | - |
-|   K-Adapter  |  [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://github.com/microsoft/K-Adapter)  |  202021-00  | [GitHub](https://github.com/microsoft/K-Adapter) ![Stars](https://img.shields.io/github/stars/microsoft/K-Adapter) |
-|   Memorizing Transformers  |  [Memorizing Transformers](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  202022-00  | [GitHub](https://github.com/lucidrains/memorizing-transformers-pytorch) ![Stars](https://img.shields.io/github/stars/lucidrains/memorizing-transformers-pytorch) |
-|   S-LoRA  |  [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2510.10481)  |  2023-11  | - |
-|   MixLoRA  |  [MixLoRA: Enhancing LLM Fine-Tuning with LoRA-based Mixture of Experts (overview)](https://magazine.sebastianraschka.com/p/llm-research-insights-instruction)  |  2024-04  | [GitHub](https://github.com/PLUM-Lab/MixLoRA) ![Stars](https://img.shields.io/github/stars/PLUM-Lab/MixLoRA) |
-|   ELDER  |  [Enhancing Lifelong Model Editing with Mixture-of-LoRA](https://arxiv.org/abs/2510.10481)  |  2024-08  | - |
-|   MoM  |  [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://github.com/OpenSparseLLMs/MoM)  |  2025-02  | [GitHub](https://github.com/OpenSparseLLMs/MoM) ![Stars](https://img.shields.io/github/stars/OpenSparseLLMs/MoM) |
+|   LMLM  |  [Pre-training Large Memory Language Models with Internal and External Knowledge](https://arxiv.org/abs/2505.15962)  |  2025-05  | - |
+|   K-Adapter  |  [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://aclanthology.org/2021.findings-acl.121/)  |  2021  | [GitHub](https://github.com/microsoft/K-Adapter) ![Stars](https://img.shields.io/github/stars/microsoft/K-Adapter) |
+|   Memorizing Transformers  |  [Memorizing Transformers](https://arxiv.org/abs/2203.08913)  |  2022-03  | [GitHub](https://github.com/lucidrains/memorizing-transformers-pytorch) ![Stars](https://img.shields.io/github/stars/lucidrains/memorizing-transformers-pytorch) |
+|   S-LoRA  |  [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)  |  2023-11  | - |
+|   MixLoRA  |  [MixLoRA: Enhancing LLM Fine-Tuning with LoRA-based Mixture of Experts](https://arxiv.org/abs/2404.15159)  |  2024-04  | [GitHub](https://github.com/PLUM-Lab/MixLoRA) ![Stars](https://img.shields.io/github/stars/PLUM-Lab/MixLoRA) |
+|   ELDER  |  [Enhancing Lifelong Model Editing with Mixture-of-LoRA](https://arxiv.org/abs/2408.11869)  |  2024-08  | - |
+|   MoM  |  [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://arxiv.org/abs/2502.13685)  |  2025-02  | [GitHub](https://github.com/OpenSparseLLMs/MoM) ![Stars](https://img.shields.io/github/stars/OpenSparseLLMs/MoM) |
 
 ## ➤ 6&nbsp;&nbsp;Applications
 
