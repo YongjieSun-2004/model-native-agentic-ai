@@ -261,11 +261,17 @@ If you find our survey useful for your research, please consider citing our work
 |   Query Rewriting  |  [Query rewriting in retrieval-augmented large language models](https://aclanthology.org/2023.emnlp-main.322)  |  2023-05  | [GitHub](https://github.com/xbmxb/RAG-query-rewriting) ![Stars](https://img.shields.io/github/stars/xbmxb/RAG-query-rewriting) |
 |   RECOMP  |  [Recomp: Improving retrieval-augmented lms with compression and selective augmentation](https://arxiv.org/abs/2310.04408)  |  2023-10  | [GitHub](https://github.com/carriex/recomp) ![Stars](https://img.shields.io/github/stars/carriex/recomp) |
 |   LongLLMLingua  |  [Longllmlingua: Accelerating and enhancing llms in long context scenarios via prompt compression](https://arxiv.org/abs/2310.06839)  |  2023-10  | [GitHub](https://github.com/microsoft/LLMLingua) ![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua) |
-|   FreshLLMs  |  [Freshllms: Refreshing large language models with search engine augmentation](https://arxiv.org/abs/2310.03214)  |  2023-10  | [GitHub](https://github.com/freshllms/freshqa}{No} ) ![Stars](https://img.shields.io/github/stars/freshllms/freshqa}{No} ) |
+|   FreshLLMs  |  [Freshllms: Refreshing large language models with search engine augmentation](https://arxiv.org/abs/2310.03214)  |  2023-10  | [GitHub](https://github.com/freshllms/freshqa) ![Stars](https://img.shields.io/github/stars/freshllms/freshqa) |
 |   BIDER  |  [Bider: Bridging knowledge inconsistency for efficient retrieval-augmented llms via key supporting evidence](https://arxiv.org/abs/2402.12174)  |  2024-02  | - |
 |   CorpusLM  |  [Corpuslm: Towards a unified language model on corpus for knowledge-intensive tasks](https://arxiv.org/abs/2402.01176)  |  2024-02  | - |
 |   GraphRAG  |  [From local to global: A graph rag approach to query-focused summarization](https://arxiv.org/abs/2404.16130)  |  2024-04  | [GitHub](https://github.com/microsoft/graphrag) ![Stars](https://img.shields.io/github/stars/microsoft/graphrag) |
 |   RetroLLM  |  [Retrollm: Empowering large language models to retrieve fine-grained evidence within generation](https://arxiv.org/abs/2412.11919)  |  2024-12  | [GitHub](https://github.com/sunnynexus/RetroLLM) ![Stars](https://img.shields.io/github/stars/sunnynexus/RetroLLM) |
+|   Real-World WebAgent  |  [A real-world webagent with planning, long context understanding, and program synthesis](https://arxiv.org/abs/2407.04346)  |  2023-07  | [GitHub](https://github.com/google-research/google-research/tree/master/webagent) ![Stars](https://img.shields.io/github/stars/google-research/google-research) |
+|   WebVoyager  |  [Webvoyager: Building an end-to-end web agent with large multimodal models](https://arxiv.org/abs/2401.13919)  |  2024-01  | [GitHub](https://github.com/MinorJerry/WebVoyager) ![Stars](https://img.shields.io/github/stars/MinorJerry/WebVoyager) |
+|   Search-o1  |  [Search-o1: Agentic search-enhanced large reasoning models](https://arxiv.org/abs/2501.05366)  |  2025-01  | [GitHub](https://github.com/RUC-NLPIR/Search-o1) ![Stars](https://img.shields.io/github/stars/RUC-NLPIR/Search-o1) |
+|   ODS  |  [Open deep search: Democratizing search with open-source reasoning agents](https://arxiv.org/abs/2503.20201)  |  2025-03  | [GitHub](https://github.com/sentient-agi/OpenDeepSearch) ![Stars](https://img.shields.io/github/stars/sentient-agi/OpenDeepSearch) |
+|   ReSum  |  [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)  |  2025-09  | [GitHub](https://github.com/Alibaba-NLP/DeepResearch//) ![Stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch//) |
+
 
 
 #### Model-native Paradigm
