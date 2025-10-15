@@ -253,6 +253,26 @@ If you find our survey useful for your research, please consider citing our work
 
 ### 6.1&nbsp;&nbsp;Deep Research Agent
 
+#### Pipeline-based paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   Query2doc  |  [Query2doc: Query expansion with large language models](https://arxiv.org/abs/2303.07678)  |  2023-03  | - |
+|   Query Rewriting  |  [Query rewriting in retrieval-augmented large language models](https://aclanthology.org/2023.emnlp-main.322)  |  2023-05  | [GitHub](https://github.com/xbmxb/RAG-query-rewriting) ![Stars](https://img.shields.io/github/stars/xbmxb/RAG-query-rewriting) |
+|   RECOMP  |  [Recomp: Improving retrieval-augmented lms with compression and selective augmentation](https://arxiv.org/abs/2310.04408)  |  2023-10  | [GitHub](https://github.com/carriex/recomp) ![Stars](https://img.shields.io/github/stars/carriex/recomp) |
+|   LongLLMLingua  |  [Longllmlingua: Accelerating and enhancing llms in long context scenarios via prompt compression](https://arxiv.org/abs/2310.06839)  |  2023-10  | [GitHub](https://github.com/microsoft/LLMLingua) ![Stars](https://img.shields.io/github/stars/microsoft/LLMLingua) |
+|   FreshLLMs  |  [Freshllms: Refreshing large language models with search engine augmentation](https://arxiv.org/abs/2310.03214)  |  2023-10  | [GitHub](https://github.com/freshllms/freshqa}{No} ) ![Stars](https://img.shields.io/github/stars/freshllms/freshqa}{No} ) |
+|   BIDER  |  [Bider: Bridging knowledge inconsistency for efficient retrieval-augmented llms via key supporting evidence](https://arxiv.org/abs/2402.12174)  |  2024-02  | - |
+|   CorpusLM  |  [Corpuslm: Towards a unified language model on corpus for knowledge-intensive tasks](https://arxiv.org/abs/2402.01176)  |  2024-02  | - |
+|   GraphRAG  |  [From local to global: A graph rag approach to query-focused summarization](https://arxiv.org/abs/2404.16130)  |  2024-04  | [GitHub](https://github.com/microsoft/graphrag) ![Stars](https://img.shields.io/github/stars/microsoft/graphrag) |
+|   RetroLLM  |  [Retrollm: Empowering large language models to retrieve fine-grained evidence within generation](https://arxiv.org/abs/2412.11919)  |  2024-12  | [GitHub](https://github.com/sunnynexus/RetroLLM) ![Stars](https://img.shields.io/github/stars/sunnynexus/RetroLLM) |
+
+
+#### Model-native Paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+
 ### 6.2&nbsp;&nbsp;GUI Agent
 
 ## ➤ 7&nbsp;&nbsp;Future Direction and Discussion
