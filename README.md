@@ -276,20 +276,21 @@ If you find our survey useful for your research, please consider citing our work
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
-& R1-Searcher ~\cite{song2025r1}& Def. & LLM & API & Single & Academia & \href{https://github.com/RUCAIBox/R1-Searcher}{Yes} & 25.03 \\
-& Search-R1 ~\cite{jin2025searchr1trainingllmsreason}& Def. & LLM & API & Single & Academia & \href{https://github.com/PeterGriffinJin/Search-R1}{Yes} & 25.03 \\
-& ReSearch ~\cite{chen2025researchlearningreasonsearch}& Def. & LLM & API & Single & Academia & {No} & 25.03 \\
-& R1-Searcher++ ~\cite{song2025r1plusplus}& Def. & LLM & API & Multi & Academia & \href{https://github.com/RUCAIBox/R1-Searcher}{Yes} & 25.05 \\
-& R-Search ~\cite{zhao2025r}& Def. & LLM & API & Single & Academia & \href{https://github.com/QingFei1/R-Search}{Yes} & 25.06 \\
-& M2IO-R1 ~\cite{xiao2025m2io}& Def. & LMM & API & Single & Academia & \href{https://github.com/plageon/M2IO}{Yes} & 25.08 \\
-& DeepResearcher ~\cite{zheng2025deepresearcherscalingdeepresearch}& Def. & LLM & \makecell{API\\+Browser} & Multi & Academia & \href{https://github.com/GAIR-NLP/DeepResearcher}{Yes} & 25.04 \\
-& WebThinker ~\cite{li2025webthinker} & Def. & \makecell{LRM\\+LLM} & \makecell{API\\+Browser} & Multi & Academia & \href{https://github.com/RUC-NLPIR/WebThinker}{Yes} & 25.04 \\
-& ZeroSearch ~\cite{sun2025zerosearchincentivizesearchcapability}& Def. & LLM & API & Multi & Academia & \href{https://github.com/Alibaba-NLP/ZeroSearch}{Yes} & 25.05 \\
-& MMSearch-R1 ~\cite{wu2025mmsearchr1} & Def. & LMM & API & Single & Industry & \href{https://github.com/EvolvingLMMs-Lab/multimodal-search-r1}{Yes} & 25.06 \\
-& WebWatcher ~\cite{geng2025webwatcher}& Def. & LMM & API & Single & Industry & \href{https://github.com/Alibaba-NLP/DeepResearch}{Yes} & 25.09 \\
-& SFR-DeepResearch ~\cite{nguyen2025sfr}&  Gen. & LRM & API & Single & Industry & {No} & 25.09 \\
-& DeepDive ~\cite{lu2025deepdive}& Def. & LRM & \makecell{API\\+Browser} & Single & Academia & \href{https://github.com/THUDM/DeepDive}{Yes} & 25.09 \\
-& WebResearcher ~\cite{qiao2025webresearcher}& Gen. & LRM & \makecell{API\\+Browser} & Multi & Industry & \href{https://github.com/Alibaba-NLP/DeepResearch/tree/main}{Yes} & 25.09 \\
+|   R1-Searcher  |  [R1-searcher: Incentivizing the search capability in llms via reinforcement learning](https://arxiv.org/abs/2503.05592)  |  2025-03  | [GitHub](https://github.com/RUCAIBox/R1-Searcher) ![Stars](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher) |
+|   Search-R1  |  [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)  |  2025-03  | [GitHub](https://github.com/PeterGriffinJin/Search-R1) ![Stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1) |
+|   ReSearch  |  [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)  |  2025-03  | - |
+|   R1-Searcher++  |  [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning](https://arxiv.org/abs/2407.04346)  |  2025-05  | [GitHub](https://github.com/RUCAIBox/R1-Searcher) ![Stars](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher) |
+|   R-Search  |  [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/abs/2506.04185)  |  2025-06  | [GitHub](https://github.com/QingFei1/R-Search) ![Stars](https://img.shields.io/github/stars/QingFei1/R-Search) |
+|   M2IO-R1  |  [M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation](https://arxiv.org/abs/2508.06328)  |  2025-08  | [GitHub](https://github.com/plageon/M2IO) ![Stars](https://img.shields.io/github/stars/plageon/M2IO) |
+|   DeepResearcher  |  [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160)  |  2025-04  | [GitHub](https://github.com/GAIR-NLP/DeepResearcher) ![Stars](https://img.shields.io/github/stars/GAIR-NLP/DeepResearcher) |
+|   WebThinker  |  [Webthinker: Empowering large reasoning models with deep research capability](https://arxiv.org/abs/2504.21776)  |  2025-04  | [GitHub](https://github.com/RUC-NLPIR/WebThinker) ![Stars](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker) |
+|   ZeroSearch  |  [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)  |  2025-05  | [GitHub](https://github.com/Alibaba-NLP/ZeroSearch) ![Stars](https://img.shields.io/github/stars/Alibaba-NLP/ZeroSearch) |
+|   MMSearch-R1  |  [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670)  |  2025-06  | [GitHub](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) ![Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1) |
+|   WebWatcher  |  [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748)  |  2025-09  | [GitHub](https://github.com/Alibaba-NLP/DeepResearch) ![Stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch) |
+|   SFR-DeepResearch  |  [Sfr-deepresearch: Towards effective reinforcement learning for autonomously reasoning single agents](https://arxiv.org/abs/2509.06283)  |  2025-09  | - |
+|   DeepDive  |  [Deepdive: Advancing deep search agents with knowledge graphs and multi-turn rl](https://arxiv.org/abs/2509.10446)  |  2025-09  | [GitHub](https://github.com/THUDM/DeepDive) ![Stars](https://img.shields.io/github/stars/THUDM/DeepDive) |
+|   WebResearcher  |  [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/abs/2407.04346)  |  2025-09  | [GitHub](https://github.com/Alibaba-NLP/DeepResearch/tree/main) ![Stars](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch) |
+
 
 ### 6.2&nbsp;&nbsp;GUI Agent
 
