@@ -296,7 +296,44 @@ If you find our survey useful for your research, please consider citing our work
 
 #### Pipeline-based paradigm
 
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   Ringer  |  [Ringer: web automation by demonstration](https://www.sciencedirect.com/science/article/pii/S016636152200118X)  |  2016-11  | [GitHub](https://github.com/sbarman/webscript) ![Stars](https://img.shields.io/github/stars/sbarman/webscript) |
+|   Sugilite  |  [SUGILITE: creating multimodal smartphone automation by demonstration](https://arxiv.org/abs/2309.11436)  |  2017-05  | [GitHub](https://github.com/tobyli/Sugilite_development) ![Stars](https://img.shields.io/github/stars/tobyli/Sugilite_development) |
+|   SARA  |  [Sara: self-replay augmented record and replay for android in industrial cases](https://www.sciencedirect.com/science/article/pii/S016636152200118X)  |  2019-07  | [GitHub](https://github.com/microsoft/SARA) ![Stars](https://img.shields.io/github/stars/microsoft/SARA) |
+|   SmartRPA  |  [Reactive synthesis of software robots in RPA from user interface logs](https://www.sciencedirect.com/science/article/pii/S016636152200118X)  |  2022-11  | [GitHub](https://github.com/bpm-diag/smartRPA) ![Stars](https://img.shields.io/github/stars/bpm-diag/smartRPA) |
+|   Reflexion  |  [Advances in Neural Information Processing Systems](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)  |  2023-10  | [GitHub](https://github.com/noahshinn/reflexion) ![Stars](https://img.shields.io/github/stars/noahshinn/reflexion) |
+|   RCI  |  [Language models can solve computer tasks](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)  |  2023-11  | [GitHub](https://github.com/posgnu/rci-agent) ![Stars](https://img.shields.io/github/stars/posgnu/rci-agent) |
+|   AppAgent  |  [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771)  |  2024-04  | [GitHub](https://github.com/TencentQQGYLab/AppAgent) ![Stars](https://img.shields.io/github/stars/TencentQQGYLab/AppAgent) |
+|   Mobile-Agent  |  [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](https://arXiv.org/abs/2401.16158)  |  2024-04  | [GitHub](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v1) ![Stars](https://img.shields.io/github/stars/X-PLUG/MobileAgent) |
+|   Mobile-Agent-V2  |  [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arXiv.org/abs/2406.01014)  |  2024-06  | [GitHub](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ![Stars](https://img.shields.io/github/stars/X-PLUG/MobileAgent) |
+|   MobileGPT  |  [Mobilegpt: Augmenting llm with human-like app memory for mobile task automation](url = "https://aclanthology.org/2025.findings-acl.1152/",)  |  2024-11  | [GitHub](https://github.com/mobilegptsys/MobileGPT) ![Stars](https://img.shields.io/github/stars/mobilegptsys/MobileGPT) |
+|   Mobile-Agent-V  |  [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](url = "https://aclanthology.org/2025.findings-acl.1152/",)  |  2025-06  | - |
+
 #### Model-native Paradigm
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   CogAgent  |  [2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](url = "https://aclanthology.org/2024.findings-acl.539/",)  |  2023-12  | [GitHub](https://github.com/zai-org/CogAgent) ![Stars](https://img.shields.io/github/stars/zai-org/CogAgent) |
+|   UGround  |  [GUI Agents](https://openreview.net/forum?id=kxnoqaisCT)  |  2024-10  | [GitHub](https://github.com/OSU-NLP-Group/UGround) ![Stars](https://img.shields.io/github/stars/OSU-NLP-Group/UGround) |
+|   CoAT  |  [GUI Agents",](url = "https://aclanthology.org/2024.findings-emnlp.702/",)  |  2024-11  | [GitHub](https://github.com/IMNearth/COAT) ![Stars](https://img.shields.io/github/stars/IMNearth/COAT) |
+|   WEPO  |  [WEPO: web element preference optimization for LLM-based web navigation](https://doi.org/10.1609/aaai.v39i25.34863)  |  2024-12  | [GitHub](https://github.com/KLGR123/WEPO) ![Stars](https://img.shields.io/github/stars/KLGR123/WEPO) |
+|   STEVE  |  [STEVE: A Step Verification Pipeline for Computer-use Agent Training](url = "https://aclanthology.org/2025.findings-acl.326/",)  |  2025-03  | [GitHub](https://github.com/FanbinLu/STEVE) ![Stars](https://img.shields.io/github/stars/FanbinLu/STEVE) |
+|   Explorer  |  [Advances in Neural Information Processing Systems](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)  |  2025-05  | [GitHub](https://osu-nlp-group.github.io/Explorer/) ![Stars](https://img.shields.io/github/starshttps://osu-nlp-group.github.io/Explorer/) |
+|   OS-Genesis  |  [GUI Agent Trajectory Construction via Reverse Task Synthesis",](url = "https://aclanthology.org/2025.acl-long.277/",)  |  2025-06  | [GitHub](https://qiushisun.github.io/OS-Genesis-Home/) ![Stars](https://img.shields.io/github/starshttps://qiushisun.github.io/OS-Genesis-Home/) |
+|   Aria-UI  |  [GUI Instructions",](url = "https://aclanthology.org/2025.findings-acl.1152/",)  |  2025-07  | [GitHub](https://ariaui.github.io) ![Stars](https://img.shields.io/github/starshttps://ariaui.github.io) |
+|   V-Droid  |  [Advancing mobile gui agents: A verifier-driven approach to practical deployment](url = "https://aclanthology.org/2025.findings-acl.326/",)  |  2025-09  | [GitHub](https://github.com/V-Droid-Agent/V-Droid) ![Stars](https://img.shields.io/github/stars/V-Droid-Agent/V-Droid) |
+|   SeeClick  |  [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)  |  2024-02  | [GitHub]( https://github.com/njucckevin/SeeClick) ![Stars](https://img.shields.io/github/stars/njucckevin/SeeClick) |
+|   MobileFlow  |  [MobileFlow: A Multimodal LLM For Mobile GUI Agent](https://arxiv.org/abs/2407.04346)  |  2024-07  | - |
+|   UI-TARS  |  [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)  |  2025-01  | [GitHub](https://github.com/bytedance/UI-TARS) ![Stars](https://img.shields.io/github/stars/bytedance/UI-TARS) |
+|   GUICourse  |  [GUI Agent",](url = "https://aclanthology.org/2025.acl-long.1065/",)  |  2025-05  | [GitHub](https://github.com/RUCBM/GUICourse) ![Stars](https://img.shields.io/github/stars/RUCBM/GUICourse) |
+|   ZeroGUI  |  [ZeroGUI: Automating Online GUI Learning at Zero Human Cost](https://arxiv.org/abs/2505.23762)  |  2025-05  | [GitHub](https://github.com/OpenGVLab/ZeroGUI) ![Stars](https://img.shields.io/github/stars/OpenGVLab/ZeroGUI) |
+|   ARPO  |  [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/abs/2505.16282)  |  2025-05  | [GitHub](https://github.com/dvlab-research/ARPO) ![Stars](https://img.shields.io/github/stars/dvlab-research/ARPO) |
+|   UItron  |  [UItron: Foundational GUI Agent with Advanced Perception and Planning](https://arxiv.org/abs/2508.21767)  |  2025-08  | [GitHub](https://github.com/UITron-hub/UItron) ![Stars](https://img.shields.io/github/stars/UITron-hub/UItron) |
+|   GUI-Owl  |  [Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144)  |  2025-08  | [GitHub](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v3) ![Stars](https://img.shields.io/github/stars/X-PLUG/MobileAgent) |
+|   DART  |  [Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation](https://arxiv.org/abs/2509.23866)  |  2025-09  | [GitHub](https://computer-use-agents.github.io/dart-gui/) ![Stars](https://img.shields.io/github/starshttps://computer-use-agents.github.io/dart-gui/) |
+|   GUI-R1  |  [GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/abs/2504.10458)  |  2025-10  | [GitHub](https://github.com/ritzz-ai/GUI-R1) ![Stars](https://img.shields.io/github/stars/ritzz-ai/GUI-R1) |
+|   OpenCUA  |  [OpenCUA: Open Foundations for Computer-Use Agents](https://arXiv.org/abs/2508.09123)  |  2025-10  | [GitHub](https://github.com/xlang-ai/OpenCUA) ![Stars](https://img.shields.io/github/stars/xlang-ai/OpenCUA) |
 
 ## ➤ 7&nbsp;&nbsp;Future Direction and Discussion
 
