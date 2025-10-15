@@ -231,6 +231,24 @@ If you find our survey useful for your research, please consider citing our work
 |   MemAgent  |  [MemAgent: Reshaping Long-Context LLM with Multi-Conversation Memory and Reinforcement Learning](https://www.alphaxiv.org/overview/2507.02259v1)  |  2025-07  | [GitHub](https://github.com/BytedTsinghua-SIA/MemAgent) ![Stars](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent) |
 |   Memory-R1  |  [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)  |  2025-08  | - |
 
+### 5.3&nbsp;&nbsp;Long-Term Memory
+
+|  Short Name  |   Paper   |   Date  |  Code/Project Link |
+|  :---------: |   :---:   |   :--:  |  :---------------: |
+|   RETRO  |  [Improving language models by retrieving from trillions of tokens](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  202021-00  | - |
+|   Atlas  |  [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)  |  202022-00  | - |
+|   Generative Agents  |  [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  2023-04  | - |
+|   Synapse  |  [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  2023-06  | - |
+|   MemGPT  |  [MemGPT: Towards LLMs as Operating Systems](https://github.com/letta-ai/letta)  |  2023-10  | [GitHub](https://github.com/letta-ai/letta) ![Stars](https://img.shields.io/github/stars/letta-ai/letta) |
+|   GraphRAG  |  [A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  |  2024-04  | [GitHub](https://github.com/microsoft/graphrag) ![Stars](https://img.shields.io/github/stars/microsoft/graphrag) |
+|   LMLM  |  [Pre-training Large Memory Language Models with Internal and External Knowledge](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  2025-05  | - |
+|   K-Adapter  |  [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://github.com/microsoft/K-Adapter)  |  202021-00  | [GitHub](https://github.com/microsoft/K-Adapter) ![Stars](https://img.shields.io/github/stars/microsoft/K-Adapter) |
+|   Memorizing Transformers  |  [Memorizing Transformers](https://github.com/lucidrains/memorizing-transformers-pytorch)  |  202022-00  | [GitHub](https://github.com/lucidrains/memorizing-transformers-pytorch) ![Stars](https://img.shields.io/github/stars/lucidrains/memorizing-transformers-pytorch) |
+|   S-LoRA  |  [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2510.10481)  |  2023-11  | - |
+|   MixLoRA  |  [MixLoRA: Enhancing LLM Fine-Tuning with LoRA-based Mixture of Experts (overview)](https://magazine.sebastianraschka.com/p/llm-research-insights-instruction)  |  2024-04  | [GitHub](https://github.com/PLUM-Lab/MixLoRA) ![Stars](https://img.shields.io/github/stars/PLUM-Lab/MixLoRA) |
+|   ELDER  |  [Enhancing Lifelong Model Editing with Mixture-of-LoRA](https://arxiv.org/abs/2510.10481)  |  2024-08  | - |
+|   MoM  |  [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://github.com/OpenSparseLLMs/MoM)  |  2025-02  | [GitHub](https://github.com/OpenSparseLLMs/MoM) ![Stars](https://img.shields.io/github/stars/OpenSparseLLMs/MoM) |
+
 ## ➤ 6&nbsp;&nbsp;Applications
 
 ### 6.1&nbsp;&nbsp;Deep Research Agent
