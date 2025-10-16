@@ -1,11 +1,12 @@
 # 🧠 model-native-agentic-ai
 
 <div align="center">
-  <img src="logo.png" alt="Logo" width="300">
+  <img src="logo.jpg" alt="Logo" width="800">
   <h1 align="center">Agentic AI: From Pipelines to Model-native</h1>
   <p align="center">
     This repository contains a curated list of papers referenced in our survey: <br>
-    <a href="https://github.com/ADaM-BJTU/model-native-agentic-ai"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a>
+    <a href="https://github.com/ADaM-BJTU/model-native-agentic-ai"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a><br>
+    We will continuously update this list with new, relevant papers.
   </p>
   
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/ADaM-BJTU/model-native-agentic-ai) 
