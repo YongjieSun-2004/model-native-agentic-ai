@@ -1,15 +1,15 @@
-# 🧠 Paradigm-Shift-in-Agentic-AI-Papers
+# 🧠 model-native-agentic-ai
 
 <div align="center">
   <img src="logo.png" alt="Logo" width="300">
   <h1 align="center">Agentic AI: From Pipelines to Model-native</h1>
   <p align="center">
     This repository contains a curated list of papers referenced in our survey: <br>
-    <a href="https://github.com/ADaM-BJTU/Paradigm-Shift-in-Agentic-AI-Papers"><strong>A Paradigm Shift in Agentic AI: Model-native Planning, Tool Use, and Memory beyond Pipelines</strong></a>
+    <a href="https://github.com/ADaM-BJTU/model-native-agentic-ai"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a>
   </p>
   
-  [![Awesome](https://awesome.re/badge.svg)](https://github.com/ADaM-BJTU/Paradigm-Shift-in-Agentic-AI-Papers) 
-  ![](https://img.shields.io/github/last-commit/ADaM-BJTU/Paradigm-Shift-in-Agentic-AI-Papers?color=green) 
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/ADaM-BJTU/model-native-agentic-ai) 
+  ![](https://img.shields.io/github/last-commit/ADaM-BJTU/model-native-agentic-ai?color=green) 
 
 </div>
 
@@ -40,7 +40,7 @@ If you find our survey useful for your research, please consider citing our work
     - [GUI Agent](#62gui-agent)
 - [Future Direction and Discussion: Emerging Model-native Capabilities](#-7future-direction-and-discussion)
     - [Multi-agent Collaboration](#711emerging-model-native-capabilities-multi-agent-collaboration)
-    - [Pipeline-based paradigm](#712emerging-model-native-capabilities-pipeline-based-paradigm)
+    - [Reflection](#712emerging-model-native-capabilities-reflection)
 
 
 # 📜 Papers
@@ -361,7 +361,7 @@ If you find our survey useful for your research, please consider citing our work
 |   MAGDi  |  [MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models](https://github.com/dinobby/MAGDi)  |  2024-02  | [GitHub](https://github.com/dinobby/MAGDi) ![Stars](https://img.shields.io/github/stars/dinobby/MAGDi) |
 |   CoA  |  [Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL](https://arxiv.org/pdf/2508.13167)  |  2025-08  | [GitHub](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models) ![Stars](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent_Foundation_Models) |
 
-### 7.1.2&nbsp;&nbsp;Emerging Model-native Capabilities: Pipeline-based paradigm
+### 7.1.2&nbsp;&nbsp;Emerging Model-native Capabilities: Reflection
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
