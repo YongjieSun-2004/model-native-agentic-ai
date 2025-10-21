@@ -20,7 +20,14 @@
 If you find our survey useful for your research, please consider citing our work:
 
 ```bibtex
-@article{
+@misc{sang2025pipelinessurveyparadigmshift,
+      title={Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI}, 
+      author={Jitao Sang and Jinlin Xiao and Jiarun Han and Jilin Chen and Xiaoyi Chen and Shuyu Wei and Yongjie Sun and Yuhang Wang},
+      year={2025},
+      eprint={2510.16720},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2510.16720}, 
 }
 ```
 
