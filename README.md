@@ -5,7 +5,7 @@
   <h1 align="center">Agentic AI: From Pipelines to Model-native</h1>
   <p align="center">
     This repository contains a curated list of papers referenced in our survey: <br>
-    <a href="https://github.com/ADaM-BJTU/model-native-agentic-ai"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a><br>
+    <a href="New_Paradigm_Shift_Survey.pdf"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a><br>
     We will continuously update this list with new, relevant papers.
   </p>
   
