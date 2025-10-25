@@ -5,7 +5,7 @@
   <h1 align="center">Agentic AI: From Pipelines to Model-native</h1>
   <p align="center">
     This repository contains a curated list of papers referenced in our survey: <br>
-    <a href="https://arxiv.org/abs/2510.16720"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a><br>
+    <a href="https://github.com/ADaM-BJTU/model-native-agentic-ai"><strong>Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI</strong></a><br>
     We will continuously update this list with new, relevant papers.
   </p>
   
@@ -20,14 +20,7 @@
 If you find our survey useful for your research, please consider citing our work:
 
 ```bibtex
-@misc{sang2025pipelinessurveyparadigmshift,
-      title={Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI}, 
-      author={Jitao Sang and Jinlin Xiao and Jiarun Han and Jilin Chen and Xiaoyi Chen and Shuyu Wei and Yongjie Sun and Yuhang Wang},
-      year={2025},
-      eprint={2510.16720},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2510.16720}, 
+@misc{
 }
 ```
 
