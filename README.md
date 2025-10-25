@@ -154,7 +154,7 @@ models that grow intelligence through experience.
 |   AI-SearchPlanner  |  [AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2508.20368)  |  2025-08  | - |
 |   RLTR  |  [Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning](https://arxiv.org/abs/2508.19598)  |  2025-08  | - |
 |   R1-Searcher  |  [R1-searcher: Incentivizing the search capability in llms via reinforcement learning](https://arxiv.org/abs/2503.05592)  |  2025-03  | [GitHub](https://github.com/volcengine/verl/tree/main/examples/r1/lite-searcher) ![Stars](https://img.shields.io/github/stars/volcengine/verl) |
-|   ReSearch  |  [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)  |  2025-03  | - |
+|   ReSearch  |  [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)  |  2025-03  | [GitHub](https://github.com/Agent-RL/ReCall) ![Stars](https://img.shields.io/github/stars/Agent-RL/ReCall) |
 |   ToRL  |  [ToRL: Tool-integrated Reinforcement Learning for LLM Agents](https://arxiv.org/abs/2503.23383)  |  2025-03  | [GitHub](https://github.com/GAIR-NLP/ToRL) ![Stars](https://img.shields.io/github/stars/GAIR-NLP/ToRL) |
 |   Search-R1  |  [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)  |  2025-03  | - |
 |   AutoCoA  |  [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)  |  2025-03  | [GitHub](https://github.com/ADaM-BJTU/AutoCoA) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/AutoCoA) |
