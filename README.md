@@ -107,7 +107,7 @@ models that grow intelligence through experience.
 |   OmegaPRM  |  [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](https://arxiv.org/abs/2406.06592)  |  2024-06  | - |
 |   OpenAI o1  |  [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)  |  2024-09  | - |
 |   RLEF  |  [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://arxiv.org/abs/2410.02089)  |  2024-10  | - |
-|   o1-Coder  |  [o1-Coder: an o1 Replication for Coding](https://arxiv.org/abs/2412.00154)  |  2024-01  | [Github](https://github.com/ADaM-BJTU/O1-CODER/tree/main) ![Stars](https://github.com/ADaM-BJTU/O1-CODER/tree/main)|
+|   o1-Coder  |  [o1-Coder: an o1 Replication for Coding](https://arxiv.org/abs/2412.00154)  |  2024-01  | [GitHub](https://github.com/ADaM-BJTU/O1-CODER/tree/main) ![Stars](https://github.com/ADaM-BJTU/O1-CODER/tree/main) |
 |   Implicit PRM  |  [Free Process Rewards without Process Labels](https://raw.githubusercontent.com/mlresearch/v267/main/assets/yuan25c/yuan25c.pdf)  |  2024-12  | - |
 |   ORPS  |  [Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](https://api.semanticscholar.org/CorpusID:274859836)  |  2024-12  | [GitHub](https://github.com/zhuohaoyu/ORPS) ![Stars](https://img.shields.io/github/stars/zhuohaoyu/ORPS) |
 |   OpenRFT  |  [OpenRFT: Adapting Reasoning Foundation Model for Domain-specific Tasks with Reinforcement Fine-Tuning](https://arxiv.org/abs/2412.16849)  |  2024-12  | [GitHub](https://github.com/ADaM-BJTU/OpenRFT) ![Stars](https://img.shields.io/github/stars/ADaM-BJTU/OpenRFT) |
