@@ -121,7 +121,7 @@ models that grow intelligence through experience.
 |   L1  |  [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://arxiv.org/abs/2503.04697)  |  2025.03  | [GitHub](https://github.com/cmu-l3/l1) ![Stars](https://img.shields.io/github/stars/cmu-l3/l1) |
 |   DAST  |  [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/abs/2503.04472)  |  2025.03  | [GitHub](https://github.com/AnonymousUser0520/AnonymousRepo01) ![Stars](https://img.shields.io/github/stars/AnonymousUser0520/AnonymousRepo01) |
 |   QwQ  |  [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)  |  2025-03  | - |
-|   Skywork or1  |  [Skywork Open Reasoner Series](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680)  |  2025-03  | - |
+|   Skywork or1  |  [Skywork Open Reasoner Series](https://capricious-hydrogen-41c.notion.site/Skywork-Open-Reaonser-Series-1d0bc9ae823a80459b46c149e4f51680)  |  2025-03  | [GitHub](https://github.com/SkyworkAI/Skywork-OR1) ![Stars](https://img.shields.io/github/stars/SkyworkAI/Skywork-OR1) |
 |   Demystify-long-cot  |  [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)  |  2025-02  | [GitHub](https://github.com/eddycmu/demystify-long-cot) ![Stars](https://img.shields.io/github/stars/eddycmu/demystify-long-cot) |
 |   LLM-as-Judge  |  [Who's Your Judge? On the Detectability of LLM-Generated Judgments](https://arxiv.org/abs/2509.25154)  |  2025-09  | - |
 
